@@ -1,0 +1,2 @@
+# butiksdatasystemet
+python school project
